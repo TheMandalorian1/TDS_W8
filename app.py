@@ -1,5 +1,5 @@
 import streamlit as st
-st.write("TDS Module 8 Assignment")
+st.title("TDS Module 8 Assignment")
 a = st.number_input("Enter first number: ")
 b = st.number_input("Enter second number: ")
 c = a + b
